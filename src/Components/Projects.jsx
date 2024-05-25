@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 import { Button, Card } from 'react-bootstrap'
 import PORTFOLIO from '../assets/portfolio.png'
 import MENUAPP from '../assets/menu-app.png'
@@ -85,7 +85,7 @@ function Projects() {
             <Card.Body>
               <Card.Title className='caption' width={'100%'} height={'150px'}>PROJECT FAIR</Card.Title>
 
-              <Link style={{ textDecoration: 'none' }} to={'https://project-fair-front-end-nine.vercel.app'}>
+              <Link style={{ textDecoration: 'none' }} to={'https://6651a8dfa8055af84517580c--chic-zabaione-297847.netlify.app'}>
                 <div className='d-flex justify-content-center mt-3'><Button variant="info">CLICK ME</Button></div>
               </Link>
             </Card.Body>

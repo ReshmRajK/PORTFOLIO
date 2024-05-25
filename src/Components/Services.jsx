@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 import { Card } from 'react-bootstrap'
 import design from '../assets/web-design.png'
 import fronEnd from '../assets/front-end.jpg'
